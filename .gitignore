@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+scores.csv
+# Música: los archivos no se versionan (ver assets/music/README.md)
+assets/music/*
+!assets/music/README.md
